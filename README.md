@@ -5,7 +5,7 @@ Code From CSCI 203
   <li> Singly & Doubly Linked List </li>
   <li> Word Level Palidrome</li>
   <li> Fibonacci Position</li>
-  <li> </li>
-  <li> </li>
+  <li> Word Count Via LL </li>
+  <li> Word Count Via Hash Table</li>
   <li> </li>
 </ol>
