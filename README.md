@@ -7,5 +7,4 @@ Code From CSCI 203
   <li> Fibonacci Position</li>
   <li> Word Count Via LL </li>
   <li> Word Count Via Hash Table</li>
-  <li> </li>
 </ol>
